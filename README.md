@@ -11,4 +11,4 @@
 ## Особенности:
 - HTML;
 - CSS;
-- JavaScript;
+- JavaScript( циклы; контекст, this и методы call, apply и bind; замыкания; function declaration, function expression, IIFE, arrow function; модули в JS и прототипы;  Promise, async/await, Event Loop )
