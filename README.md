@@ -6,7 +6,7 @@
 
     Игра выполнена на чистом JavaScript, html, css.
 
-- [Demo-версия](https://andreykhailov.github.io/fight-game/).
+- Demo-версия [https://andreykhaylov.github.io/fight-game/](https://andreykhailov.github.io/fight-game/).
 
 ## Особенности:
 - HTML;
